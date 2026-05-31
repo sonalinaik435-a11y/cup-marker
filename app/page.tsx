@@ -16,9 +16,6 @@ export default function Home() {
             <Link href="/cups" className="text-white hover:text-blue-400 transition-colors font-medium">
               Cup Tracker
             </Link>
-            <Link href="/joke" className="text-white hover:text-blue-400 transition-colors font-medium">
-              Fun Zone
-            </Link>
             <Link href="#" className="text-white hover:text-blue-400 transition-colors font-medium">
               Contact
             </Link>
@@ -188,8 +185,7 @@ export default function Home() {
               <h4 className="text-white font-bold mb-4">Features</h4>
               <ul className="space-y-2">
                 <li><Link href="/cups" className="text-gray-400 hover:text-blue-400 transition-colors">Cup Tracker</Link></li>
-                <li><Link href="/joke" className="text-gray-400 hover:text-blue-400 transition-colors">Fun Zone</Link></li>
-                <li><Link href="#" className="text-gray-400 hover:text-blue-400 transition-colors">Stats</Link></li>
+                <li><Link href="#" className="text-gray-400 hover:text-blue-400 transition-colors">Support</Link></li>
               </ul>
             </div>
             <div>
